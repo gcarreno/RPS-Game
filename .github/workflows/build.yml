@@ -66,6 +66,13 @@ jobs:
         name: rpsgame
         path: bin/rpsgame-*
 
+    - name: Upload binary (Ubuntu)
+      if: ${{ (matrix.operating-system == 'macos-latest')  &&  (matrix.lazarus-versions == 'stable') }}
+      uses: actions/upload-artifact@v2
+      with:
+        name: rpsgame
+        path: bin/rpsgame
+
   package-release:
     if: contains(github.ref, '/tags/')
 
@@ -94,6 +101,7 @@ jobs:
         zip -r rpsgame-${{ steps.vars.outputs.tag }}-x86_64-win64.zip rpsgame.exe
         tar -zcvf rpsgame-GTK2-${{ steps.vars.outputs.tag }}-x86_64-linux.tar.gz rpsgame-gtk2
         tar -zcvf rpsgame-Qt5-${{ steps.vars.outputs.tag }}-x86_64-linux.tar.gz rpsgame-qt5
+        tar -zcvf rpsgame-Qt5-${{ steps.vars.outputs.tag }}-x86_64-darwin.tar.gz rpsgame
     - name: Create GitHub release
       uses: softprops/action-gh-release@v1
       with:
