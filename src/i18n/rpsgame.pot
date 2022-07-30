@@ -1,0 +1,62 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: forms.main.rcaiscore
+#, object-pascal-format
+msgid "A.I. Score: %d"
+msgstr ""
+
+#: forms.main.rcformcaption
+#, object-pascal-format
+msgid "Rock-Paper-Scrissor Game v%d.%d.%d"
+msgstr ""
+
+#: forms.main.rcuserscore
+#, object-pascal-format
+msgid "User Score: %d"
+msgstr ""
+
+#: tfrmmain.actfileexit.caption
+msgid "E&xit"
+msgstr ""
+
+#: tfrmmain.actfileexit.hint
+msgid "Exit"
+msgstr ""
+
+#: tfrmmain.actgamedraw.caption
+msgid "&Draw"
+msgstr ""
+
+#: tfrmmain.actgamepaper.caption
+msgid "&Paper"
+msgstr ""
+
+#: tfrmmain.actgamerock.caption
+msgid "&Rock"
+msgstr ""
+
+#: tfrmmain.actgamescissors.caption
+msgid "&Scissors"
+msgstr ""
+
+#: tfrmmain.caption
+msgid "frmMain"
+msgstr ""
+
+#: tfrmmain.lblaiscore.caption
+msgid "lblAIScore"
+msgstr ""
+
+#: tfrmmain.lbluserscore.caption
+msgid "lblUserScore"
+msgstr ""
+
+#: tfrmmain.mnufile.caption
+msgid "&File"
+msgstr ""
+
+#: tfrmmain.mnugame.caption
+msgid "&Game"
+msgstr ""
+
