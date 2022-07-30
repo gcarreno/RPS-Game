@@ -1,0 +1,13 @@
+{"version":1,"strings":[
+{"hash":227686302,"name":"tfrmmain.caption","sourcebytes":[102,114,109,77,97,105,110],"value":"frmMain"},
+{"hash":189831701,"name":"tfrmmain.lbluserscore.caption","sourcebytes":[108,98,108,85,115,101,114,83,99,111,114,101],"value":"lblUserScore"},
+{"hash":99536773,"name":"tfrmmain.lblaiscore.caption","sourcebytes":[108,98,108,65,73,83,99,111,114,101],"value":"lblAIScore"},
+{"hash":2805797,"name":"tfrmmain.mnufile.caption","sourcebytes":[38,70,105,108,101],"value":"&File"},
+{"hash":2807861,"name":"tfrmmain.mnugame.caption","sourcebytes":[38,71,97,109,101],"value":"&Game"},
+{"hash":4710148,"name":"tfrmmain.actfileexit.caption","sourcebytes":[69,38,120,105,116],"value":"E&xit"},
+{"hash":315140,"name":"tfrmmain.actfileexit.hint","sourcebytes":[69,120,105,116],"value":"Exit"},
+{"hash":2856347,"name":"tfrmmain.actgamerock.caption","sourcebytes":[38,82,111,99,107],"value":"&Rock"},
+{"hash":45516482,"name":"tfrmmain.actgamepaper.caption","sourcebytes":[38,80,97,112,101,114],"value":"&Paper"},
+{"hash":168480003,"name":"tfrmmain.actgamescissors.caption","sourcebytes":[38,83,99,105,115,115,111,114,115],"value":"&Scissors"},
+{"hash":2799751,"name":"tfrmmain.actgamedraw.caption","sourcebytes":[38,68,114,97,119],"value":"&Draw"}
+]}
