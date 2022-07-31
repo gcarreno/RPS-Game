@@ -11,8 +11,8 @@ A very simple attempt at a Rock-Paper-Scissors game.
 
 This was part of a friendly challenge to have many ways to deal with images in a Delphi/Lazarus app.
 
-1. @Luigizi implemented getting the images from files on the hard drive: [https://github.com/Luigizi/RockPaperScissorsGame](RockPaperScissorsGame)
-2. @KodeZwerg implemented getting the images from embedded resources: [https://github.com/KodeZwerg/RockPaperScissor](RockPaperScissor)
-3. @gcarreno, me, I implemented using a `TImageList`.
+1. @[Luigizi](https://github.com/Luigizi) implemented getting the images from files on the hard drive: [RockPaperScissorsGame](https://github.com/Luigizi/RockPaperScissorsGame)
+2. @[KodeZwerg](https://github.com/KodeZwerg) implemented getting the images from embedded resources: [RockPaperScissor](https://github.com/KodeZwerg/RockPaperScissor)
+3. Me, I implemented it using a `TImageList`.
 
 Enjoy our little playground results.
