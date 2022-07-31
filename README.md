@@ -8,3 +8,11 @@
 [![Downloads](https://img.shields.io/github/downloads/gcarreno/RPS-Game/total)](https://github.com/gcarreno/RPS-Game/releases)
 
 A very simple attempt at a Rock-Paper-Scissors game.
+
+This was part of a friendly challenge to have many ways to deal with images in a Delphi/Lazarus app.
+
+1. @Luigizi implemented getting the images from files on the hard drive: [https://github.com/Luigizi/RockPaperScissorsGame](RockPaperScissorsGame)
+2. @KodeZwerg implemented getting the images from embedded resources: [https://github.com/KodeZwerg/RockPaperScissor](RockPaperScissor)
+3. @gcarreno, me, I implemented using a `TImageList`.
+
+Enjoy our little playground results.
